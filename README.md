@@ -1,6 +1,6 @@
 # mbr_entity-debug
 A FiveM entity debug script  
-You can using /edebug to toggle debug mode  
+You can using ``/edebug`` to toggle debug mode  
 Then there will be a “?” pointer in front of you, use the pointer to display nearby entity information  
 
 # Showcase
