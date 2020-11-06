@@ -2,4 +2,4 @@
 A FiveM entity debug script  
 
 # Showcase
-![video](https://streamable.com/0yf22j)
+[![video](https://i.imgur.com/EdeHuUu.png)](https://streamable.com/0yf22j)
